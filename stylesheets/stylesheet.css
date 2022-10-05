@@ -19,3 +19,12 @@ background-color: beige;
     border: 10px lightgreen ridge;
     margin: 5px;
 }
+
+.robo-head{
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
+
+.courier-new{
+    font-family: 'Courier New', Courier, monospace;
+}
